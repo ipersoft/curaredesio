@@ -24,7 +24,9 @@
         "tipo": "Pista ciclabile comunale",
         "id": "77",
         "length": "238",
-        "nome_com": "DESIO"
+        "nome_com": "DESIO",
+        "stroke": "#555555",
+        "stroke-width": 5
       }
     },
     {
