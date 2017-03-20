@@ -18,15 +18,15 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
         "tipo": "Pista ciclabile comunale",
         "id": "77",
         "length": "238",
-        "nome_com": "DESIO",
-        "stroke": "#555555",
-        "stroke-width": 5
+        "nome_com": "DESIO"
       }
     },
     {
@@ -138,6 +138,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -168,6 +170,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -250,6 +254,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -280,6 +286,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -310,6 +318,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -384,6 +394,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -418,6 +430,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -512,6 +526,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -558,6 +574,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -588,6 +606,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -734,6 +754,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -828,6 +850,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -890,6 +914,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -924,6 +950,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -986,6 +1014,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1048,6 +1078,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1074,6 +1106,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1124,6 +1158,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1254,6 +1290,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1288,6 +1326,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1318,6 +1358,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1352,6 +1394,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1378,6 +1422,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1476,6 +1522,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1502,6 +1550,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1600,6 +1650,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1630,6 +1682,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1700,6 +1754,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1734,6 +1790,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -1788,6 +1846,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2054,6 +2114,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2096,6 +2158,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2122,6 +2186,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2200,6 +2266,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2226,6 +2294,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2252,6 +2322,8 @@
       },
       "properties": {
         "stato": "esistente",
+        "stroke": "#00ff00",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2286,6 +2358,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2352,6 +2426,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2410,6 +2486,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2480,6 +2558,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2542,6 +2622,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2576,6 +2658,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2606,6 +2690,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2632,6 +2718,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2658,6 +2746,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2700,6 +2790,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2770,6 +2862,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2796,6 +2890,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2886,6 +2982,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2912,6 +3010,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -2938,6 +3038,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3032,6 +3134,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3154,6 +3258,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3240,6 +3346,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3278,6 +3386,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3324,6 +3434,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3374,6 +3486,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3412,6 +3526,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3438,6 +3554,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3472,6 +3590,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3498,6 +3618,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3524,6 +3646,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3554,6 +3678,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3580,6 +3706,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3614,6 +3742,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3672,6 +3802,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3710,6 +3842,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3752,6 +3886,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3818,6 +3954,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3844,6 +3982,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3926,6 +4066,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -3976,6 +4118,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4022,6 +4166,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4080,6 +4226,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4138,6 +4286,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4180,6 +4330,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4226,6 +4378,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4252,6 +4406,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4302,6 +4458,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4348,6 +4506,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4390,6 +4550,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4504,6 +4666,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4530,6 +4694,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4588,6 +4754,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4634,6 +4802,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4680,6 +4850,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4790,6 +4962,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4872,6 +5046,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4910,6 +5086,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4936,6 +5114,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -4974,6 +5154,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
@@ -5024,6 +5206,8 @@
       },
       "properties": {
         "stato": "progetto",
+        "stroke": "#ff0000",
+        "stroke-width": 5,
         "fonte": "Piano strategico della mobilità ciclistica 2014",
         "cod_istat": "108023",
         "nome_pro": "MONZA E BRIANZA",
