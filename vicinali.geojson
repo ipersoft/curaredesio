@@ -1,0 +1,1876 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.177811,
+                        45.612416,
+                        0
+                    ],
+                    [
+                        9.1856,
+                        45.613272,
+                        0
+                    ],
+                    [
+                        9.187553,
+                        45.613662,
+                        0
+                    ],
+                    [
+                        9.18839,
+                        45.613872,
+                        0
+                    ],
+                    [
+                        9.191265,
+                        45.614097,
+                        0
+                    ],
+                    [
+                        9.192102,
+                        45.614398,
+                        0
+                    ],
+                    [
+                        9.192252,
+                        45.615013,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunale per Masciago",
+                "styleUrl": "#line-33FF33-5",
+                "styleHash": "30f7ab62",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-normal",
+                    "highlight": "#line-33FF33-5-highlight"
+                },
+                "description": "Strada comunale per Masciago<br>ex Bertasciola di sotto (http://www.alternativaverde.it/storia/strecc/comunalepermasciago.html)",
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.177554,
+                        45.613527,
+                        0
+                    ],
+                    [
+                        9.185321,
+                        45.614428,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Vicinale Bertasciola di Sopra",
+                "styleUrl": "#line-33FF33-5",
+                "styleHash": "30f7ab62",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-normal",
+                    "highlight": "#line-33FF33-5-highlight"
+                },
+                "description": "Vicinale Bertasciola di Sopra (http://www.alternativaverde.it/storia/strecc/Bertasciolasopra.html)<br><br>Parzialmenta asfaltata abusivamente",
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.185536,
+                        45.614413,
+                        0
+                    ],
+                    [
+                        9.187574,
+                        45.614713,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bertasciola di sopra",
+                "styleUrl": "#line-000000-7",
+                "styleHash": "-75d3f79a",
+                "styleMapHash": {
+                    "normal": "#line-000000-7-normal",
+                    "highlight": "#line-000000-7-highlight"
+                },
+                "description": "Terra battuta",
+                "stroke": "#000000",
+                "stroke-opacity": 1,
+                "stroke-width": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.196662,
+                        45.633359,
+                        0
+                    ],
+                    [
+                        9.197284,
+                        45.632661,
+                        0
+                    ],
+                    [
+                        9.198271,
+                        45.632001,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per San Carlo",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada vecchia per San Carlo<br>(Strada per il comune di Cascina Savina) (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.198292,
+                        45.631993,
+                        0
+                    ],
+                    [
+                        9.19929,
+                        45.631378,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per San Carlo",
+                "styleUrl": "#line-FFFF33-5",
+                "styleHash": "203ebb62",
+                "styleMapHash": {
+                    "normal": "#line-FFFF33-5-normal",
+                    "highlight": "#line-FFFF33-5-highlight"
+                },
+                "description": "tratto da ricostruire ( Pedemontana) (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#ffff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.199583,
+                        45.631277,
+                        0
+                    ],
+                    [
+                        9.199703,
+                        45.631089,
+                        0
+                    ],
+                    [
+                        9.200001,
+                        45.630857,
+                        0
+                    ],
+                    [
+                        9.20061,
+                        45.630196,
+                        0
+                    ],
+                    [
+                        9.200747,
+                        45.629977,
+                        0
+                    ],
+                    [
+                        9.20087,
+                        45.629758,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per san Carlo",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada vecchia per san Carlo (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.22068,
+                        45.62366,
+                        0
+                    ],
+                    [
+                        9.22129,
+                        45.62385,
+                        0
+                    ],
+                    [
+                        9.22203,
+                        45.6243,
+                        0
+                    ],
+                    [
+                        9.223344,
+                        45.624806,
+                        0
+                    ],
+                    [
+                        9.222368,
+                        45.627462,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Vicinale Molinara",
+                "styleUrl": "#line-FFFF00-5",
+                "styleHash": "206d8762",
+                "styleMapHash": {
+                    "normal": "#line-FFFF00-5-normal",
+                    "highlight": "#line-FFFF00-5-highlight"
+                },
+                "description": "Vicinale Molinara (http://www.alternativaverde.it/storia/strecc/stmacherio.html)",
+                "stroke": "#ffff00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.226246,
+                        45.626726,
+                        0
+                    ],
+                    [
+                        9.226509,
+                        45.626216,
+                        0
+                    ],
+                    [
+                        9.226649,
+                        45.625961,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunaledelle Saltine",
+                "styleUrl": "#line-33CC00-7",
+                "styleHash": "-39cbe39a",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-7-normal",
+                    "highlight": "#line-33CC00-7-highlight"
+                },
+                "description": "Strada comunaledelle Saltine (http://www.alternativaverde.it/storia/strecc/Saltine.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.221665,
+                        45.618352,
+                        0
+                    ],
+                    [
+                        9.223725,
+                        45.618829,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunale San Giorgio di Sotto",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada comunale San Giorgio di Sotto (http://www.alternativaverde.it/storia/strecc/sangiorgiosotto.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.224584,
+                        45.619122,
+                        0
+                    ],
+                    [
+                        9.226027,
+                        45.619609,
+                        0
+                    ],
+                    [
+                        9.226547,
+                        45.61988,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunale San Giorgio di Sotto",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada comunale San Giorgio di Sotto",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.226638,
+                        45.61994,
+                        0
+                    ],
+                    [
+                        9.227824,
+                        45.620356,
+                        0
+                    ],
+                    [
+                        9.229283,
+                        45.620885,
+                        0
+                    ],
+                    [
+                        9.229739,
+                        45.621144,
+                        0
+                    ],
+                    [
+                        9.230211,
+                        45.621425,
+                        0
+                    ],
+                    [
+                        9.231187,
+                        45.622018,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunale San Giorgio di Sotto",
+                "styleUrl": "#line-33FF33-5",
+                "styleHash": "30f7ab62",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-normal",
+                    "highlight": "#line-33FF33-5-highlight"
+                },
+                "description": "Strada comunale San Giorgio di Sotto tratto cancellato (http://www.alternativaverde.it/storia/strecc/sangiorgiosotto.html)",
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.224492,
+                        45.616274,
+                        0
+                    ],
+                    [
+                        9.225034,
+                        45.616263,
+                        0
+                    ],
+                    [
+                        9.226134,
+                        45.616683,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vicinale della Baraggiola",
+                "styleUrl": "#line-660000-7",
+                "styleHash": "7145b066",
+                "styleMapHash": {
+                    "normal": "#line-660000-7-normal",
+                    "highlight": "#line-660000-7-highlight"
+                },
+                "description": "Strada vicinale della Baraggiola tratto  asfaltato (http://www.alternativaverde.it/storia/strecc/baraggiola.html)",
+                "stroke": "#660000",
+                "stroke-opacity": 1,
+                "stroke-width": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.226241,
+                        45.616683,
+                        0
+                    ],
+                    [
+                        9.226397,
+                        45.616679,
+                        0
+                    ],
+                    [
+                        9.226536,
+                        45.616536,
+                        0
+                    ],
+                    [
+                        9.226794,
+                        45.616259,
+                        0
+                    ],
+                    [
+                        9.22696,
+                        45.616263,
+                        0
+                    ],
+                    [
+                        9.227893,
+                        45.616615,
+                        0
+                    ],
+                    [
+                        9.229347,
+                        45.617197,
+                        0
+                    ],
+                    [
+                        9.229578,
+                        45.617163,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vicinale della Baraggiola",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada vicinale della Baraggiola (http://www.alternativaverde.it/storia/strecc/baraggiola.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.221177,
+                        45.608033,
+                        0
+                    ],
+                    [
+                        9.221156,
+                        45.607568,
+                        0
+                    ],
+                    [
+                        9.223945,
+                        45.60353,
+                        0
+                    ],
+                    [
+                        9.224975,
+                        45.6038,
+                        0
+                    ],
+                    [
+                        9.22549,
+                        45.603425,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per Muggio'",
+                "styleUrl": "#line-33CC00-5",
+                "styleHash": "13977362",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-normal",
+                    "highlight": "#line-33CC00-5-highlight"
+                },
+                "description": "Strada vecchia per Muggio (http://www.alternativaverde.it/storia/strecc/stmuggio.html)",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.219718,
+                        45.602524,
+                        0
+                    ],
+                    [
+                        9.2224,
+                        45.603155,
+                        0
+                    ],
+                    [
+                        9.223688,
+                        45.603485,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per Muggio'",
+                "styleUrl": "#line-33CC00-5-nodesc",
+                "styleHash": "63228885",
+                "styleMapHash": {
+                    "normal": "#line-33CC00-5-nodesc-normal",
+                    "highlight": "#line-33CC00-5-nodesc-highlight"
+                },
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.221241,
+                        45.608048,
+                        0
+                    ],
+                    [
+                        9.22122,
+                        45.60759,
+                        0
+                    ],
+                    [
+                        9.222615,
+                        45.605429,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per muggio' tratta da recuperare",
+                "styleUrl": "#line-FF0000-5",
+                "styleHash": "3a634362",
+                "styleMapHash": {
+                    "normal": "#line-FF0000-5-normal",
+                    "highlight": "#line-FF0000-5-highlight"
+                },
+                "description": "Strada vecchia per muggio' tratta da recuperare (http://www.alternativaverde.it/storia/strecc/stmuggio.html)",
+                "stroke": "#ff0000",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.22218,
+                        45.615647,
+                        0
+                    ],
+                    [
+                        9.223419,
+                        45.615944,
+                        0
+                    ],
+                    [
+                        9.223645,
+                        45.616064,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Vicinale della Braggiola",
+                "styleUrl": "#line-33FF33-8-nodesc",
+                "styleHash": "5fb6c2e5",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-8-nodesc-normal",
+                    "highlight": "#line-33FF33-8-nodesc-highlight"
+                },
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.223736,
+                        45.616086,
+                        0
+                    ],
+                    [
+                        9.223886,
+                        45.616131,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Riga 22",
+                "styleUrl": "#line-333333-8-nodesc",
+                "styleHash": "-4a4775db",
+                "styleMapHash": {
+                    "normal": "#line-333333-8-nodesc-normal",
+                    "highlight": "#line-333333-8-nodesc-highlight"
+                },
+                "stroke": "#333333",
+                "stroke-opacity": 1,
+                "stroke-width": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.224063,
+                        45.616176,
+                        0
+                    ],
+                    [
+                        9.224364,
+                        45.616274,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Riga 23",
+                "styleUrl": "#line-333333-8-nodesc",
+                "styleHash": "-4a4775db",
+                "styleMapHash": {
+                    "normal": "#line-333333-8-nodesc-normal",
+                    "highlight": "#line-333333-8-nodesc-highlight"
+                },
+                "stroke": "#333333",
+                "stroke-opacity": 1,
+                "stroke-width": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.216435,
+                        45.634687,
+                        0
+                    ],
+                    [
+                        9.216413,
+                        45.635129,
+                        0
+                    ],
+                    [
+                        9.219664,
+                        45.635707,
+                        0
+                    ],
+                    [
+                        9.221692,
+                        45.636067,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada San Giuseppe",
+                "styleUrl": "#line-0000FF-5-nodesc",
+                "styleHash": "573b8885",
+                "styleMapHash": {
+                    "normal": "#line-0000FF-5-nodesc-normal",
+                    "highlight": "#line-0000FF-5-nodesc-highlight"
+                },
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.221605,
+                        45.618346,
+                        0
+                    ],
+                    [
+                        9.219787,
+                        45.617776,
+                        0
+                    ],
+                    [
+                        9.219331,
+                        45.618519,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per San Giorgio di Sotto",
+                "styleUrl": "#line-0000FF-5-nodesc",
+                "styleHash": "573b8885",
+                "styleMapHash": {
+                    "normal": "#line-0000FF-5-nodesc-normal",
+                    "highlight": "#line-0000FF-5-nodesc-highlight"
+                },
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.18815,
+                        45.638562,
+                        0
+                    ],
+                    [
+                        9.189073,
+                        45.635186,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per il Comune di Cascina Savina",
+                "styleUrl": "#line-33FF33-5",
+                "styleHash": "30f7ab62",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-normal",
+                    "highlight": "#line-33FF33-5-highlight"
+                },
+                "description": "Strada per il Comune di Cascina Savina (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.189094,
+                        45.635021,
+                        0
+                    ],
+                    [
+                        9.191476,
+                        45.635141,
+                        0
+                    ],
+                    [
+                        9.192699,
+                        45.634736,
+                        0
+                    ],
+                    [
+                        9.195338,
+                        45.635141,
+                        0
+                    ],
+                    [
+                        9.196497,
+                        45.633611,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per il Comune di Cascina Savina",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada per il Comune di Cascina Savina <br>tratto urbanizzato (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.183936,
+                        45.638845,
+                        0
+                    ],
+                    [
+                        9.187798,
+                        45.639205,
+                        0
+                    ],
+                    [
+                        9.187937,
+                        45.638492,
+                        0
+                    ],
+                    [
+                        9.188152,
+                        45.638522,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per il Comune di Cascina Savina",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada per il Comune di Cascina Savina (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.200896,
+                        45.629665,
+                        0
+                    ],
+                    [
+                        9.202226,
+                        45.629965,
+                        0
+                    ],
+                    [
+                        9.203364,
+                        45.627939,
+                        0
+                    ],
+                    [
+                        9.206196,
+                        45.627714,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per san Carlo",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada vecchia per san Carlo (http://www.alternativaverde.it/storia/strecc/cnaSavina.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.216303,
+                        45.617929,
+                        0
+                    ],
+                    [
+                        9.219671,
+                        45.610485,
+                        0
+                    ],
+                    [
+                        9.22098,
+                        45.607708,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "studio Strada vecchia per Muggio'",
+                "styleUrl": "#line-FF9900-3-nodesc",
+                "styleHash": "-2ec0207b",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-3-nodesc-normal",
+                    "highlight": "#line-FF9900-3-nodesc-highlight"
+                },
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.225594,
+                        45.603249,
+                        0
+                    ],
+                    [
+                        9.226409,
+                        45.601898,
+                        0
+                    ],
+                    [
+                        9.228748,
+                        45.602408,
+                        0
+                    ],
+                    [
+                        9.229907,
+                        45.599256,
+                        0
+                    ],
+                    [
+                        9.232439,
+                        45.599481,
+                        0
+                    ],
+                    [
+                        9.234177,
+                        45.599841,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada da Desio a Monza",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada da Desio a Monza (1853)<br><br>Strada per la rogggia di Desio (1902) (http://www.alternativaverde.it/storia/strecc/stmuggio.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.22401,
+                        45.60323,
+                        0
+                    ],
+                    [
+                        9.228001,
+                        45.594282,
+                        0
+                    ],
+                    [
+                        9.228119,
+                        45.594049,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "studio strada per Muggio'",
+                "styleUrl": "#line-FF9900-3-nodesc",
+                "styleHash": "-2ec0207b",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-3-nodesc-normal",
+                    "highlight": "#line-FF9900-3-nodesc-highlight"
+                },
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.228237,
+                    45.594019,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Antica chiesa di Muggio'",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-7e618729",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.220381,
+                        45.604343,
+                        0
+                    ],
+                    [
+                        9.222828,
+                        45.605026,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per Muggio'",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada vecchia per Muggio'<br><br>(Strada dei Salici Piangenti) (http://www.alternativaverde.it/storia/strecc/stmuggio.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.220746,
+                        45.622369,
+                        0
+                    ],
+                    [
+                        9.221787,
+                        45.622639,
+                        0
+                    ],
+                    [
+                        9.221765,
+                        45.623292,
+                        0
+                    ],
+                    [
+                        9.223514,
+                        45.623952,
+                        0
+                    ],
+                    [
+                        9.223269,
+                        45.624671,
+                        0
+                    ],
+                    [
+                        9.224051,
+                        45.625003,
+                        0
+                    ],
+                    [
+                        9.225308,
+                        45.625526,
+                        0
+                    ],
+                    [
+                        9.226633,
+                        45.625976,
+                        0
+                    ],
+                    [
+                        9.230037,
+                        45.626706,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada comunale delle Saltine",
+                "styleUrl": "#line-009900-5",
+                "styleHash": "303c6b62",
+                "styleMapHash": {
+                    "normal": "#line-009900-5-normal",
+                    "highlight": "#line-009900-5-highlight"
+                },
+                "description": "Strada comunale delle Saltine (http://www.alternativaverde.it/storia/strecc/Saltine.html)",
+                "stroke": "#009900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.19242,
+                        45.615003,
+                        0
+                    ],
+                    [
+                        9.198085,
+                        45.615573,
+                        0
+                    ],
+                    [
+                        9.199995,
+                        45.616203,
+                        0
+                    ],
+                    [
+                        9.205424,
+                        45.616984,
+                        0
+                    ],
+                    [
+                        9.206282,
+                        45.617464,
+                        0
+                    ],
+                    [
+                        9.20729,
+                        45.617254,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per Masciago",
+                "styleUrl": "#line-FF9900-5-nodesc",
+                "styleHash": "7c51ac5",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-nodesc-normal",
+                    "highlight": "#line-FF9900-5-nodesc-highlight"
+                },
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.154047,
+                        45.608824,
+                        0
+                    ],
+                    [
+                        9.15454,
+                        45.608959,
+                        0
+                    ],
+                    [
+                        9.157609,
+                        45.608764,
+                        0
+                    ],
+                    [
+                        9.159089,
+                        45.608869,
+                        0
+                    ],
+                    [
+                        9.159797,
+                        45.608974,
+                        0
+                    ],
+                    [
+                        9.162426,
+                        45.609379,
+                        0
+                    ],
+                    [
+                        9.164668,
+                        45.609649,
+                        0
+                    ],
+                    [
+                        9.168584,
+                        45.610062,
+                        0
+                    ],
+                    [
+                        9.171782,
+                        45.610422,
+                        0
+                    ],
+                    [
+                        9.171567,
+                        45.611631,
+                        0
+                    ],
+                    [
+                        9.177682,
+                        45.612396,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per il Comune di Masciago",
+                "styleUrl": "#line-FF9900-5",
+                "styleHash": "-6cefb09e",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-normal",
+                    "highlight": "#line-FF9900-5-highlight"
+                },
+                "description": "Strada per il Comune di Masciago ( Pieve di Desio)<br><br>Strada vicinale bertasciola di sotto<br>(Strada comunale per Masciago) (http://www.alternativaverde.it/storia/strecc/comunalepermasciago.html)",
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.245938,
+                        45.63387,
+                        0
+                    ],
+                    [
+                        9.240043,
+                        45.632497,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per le Torrette",
+                "styleUrl": "#line-FF9900-5-nodesc",
+                "styleHash": "7c51ac5",
+                "styleMapHash": {
+                    "normal": "#line-FF9900-5-nodesc-normal",
+                    "highlight": "#line-FF9900-5-nodesc-highlight"
+                },
+                "stroke": "#ff9900",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.229942,
+                        45.627103,
+                        0
+                    ],
+                    [
+                        9.230087,
+                        45.626746,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada per Macherio (saltine)",
+                "styleUrl": "#line-33FF33-5-nodesc",
+                "styleHash": "-721115fb",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-nodesc-normal",
+                    "highlight": "#line-33FF33-5-nodesc-highlight"
+                },
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.23001,
+                        45.62716,
+                        0
+                    ],
+                    [
+                        9.23046,
+                        45.6273,
+                        0
+                    ],
+                    [
+                        9.23111,
+                        45.62772,
+                        0
+                    ],
+                    [
+                        9.23275,
+                        45.62813,
+                        0
+                    ],
+                    [
+                        9.23667,
+                        45.629705,
+                        0
+                    ],
+                    [
+                        9.236541,
+                        45.630245,
+                        0
+                    ],
+                    [
+                        9.239287,
+                        45.630965,
+                        0
+                    ],
+                    [
+                        9.24658,
+                        45.63275,
+                        0
+                    ],
+                    [
+                        9.24815,
+                        45.6339,
+                        0
+                    ],
+                    [
+                        9.24904,
+                        45.63449,
+                        0
+                    ],
+                    [
+                        9.2527,
+                        45.63543,
+                        0
+                    ],
+                    [
+                        9.25353,
+                        45.63561,
+                        0
+                    ],
+                    [
+                        9.25517,
+                        45.63562,
+                        0
+                    ],
+                    [
+                        9.26061,
+                        45.63726,
+                        0
+                    ],
+                    [
+                        9.26286,
+                        45.638,
+                        0
+                    ],
+                    [
+                        9.26507,
+                        45.63859,
+                        0
+                    ],
+                    [
+                        9.26706,
+                        45.6394,
+                        0
+                    ],
+                    [
+                        9.26975,
+                        45.64021,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "strada per Macherio",
+                "styleUrl": "#line-33FF33-5",
+                "styleHash": "30f7ab62",
+                "styleMapHash": {
+                    "normal": "#line-33FF33-5-normal",
+                    "highlight": "#line-33FF33-5-highlight"
+                },
+                "description": "Strada",
+                "stroke": "#33ff33",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.238944,
+                            45.63077,
+                            0
+                        ],
+                        [
+                            9.23918,
+                            45.63023,
+                            0
+                        ],
+                        [
+                            9.240274,
+                            45.63056,
+                            0
+                        ],
+                        [
+                            9.24006,
+                            45.6311,
+                            0
+                        ],
+                        [
+                            9.238944,
+                            45.63077,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cimitero della Bareggia",
+                "styleUrl": "#poly-0000FF-3-115-nodesc",
+                "styleHash": "3df146d",
+                "styleMapHash": {
+                    "normal": "#poly-0000FF-3-115-nodesc-normal",
+                    "highlight": "#poly-0000FF-3-115-nodesc-highlight"
+                },
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#0000ff",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.239427,
+                        45.630605,
+                        0
+                    ],
+                    [
+                        9.239802,
+                        45.630703,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Riga 36",
+                "styleUrl": "#line-FFFFFF-5-nodesc",
+                "styleHash": "-d08a47b",
+                "styleMapHash": {
+                    "normal": "#line-FFFFFF-5-nodesc-normal",
+                    "highlight": "#line-FFFFFF-5-nodesc-highlight"
+                },
+                "stroke": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.239523,
+                        45.630808,
+                        0
+                    ],
+                    [
+                        9.239652,
+                        45.63056,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Riga 37",
+                "styleUrl": "#line-FFFFFF-5-nodesc",
+                "styleHash": "-d08a47b",
+                "styleMapHash": {
+                    "normal": "#line-FFFFFF-5-nodesc-normal",
+                    "highlight": "#line-FFFFFF-5-nodesc-highlight"
+                },
+                "stroke": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.187692,
+                            45.63699,
+                            0
+                        ],
+                        [
+                            9.187843,
+                            45.636322,
+                            0
+                        ],
+                        [
+                            9.188594,
+                            45.636359,
+                            0
+                        ],
+                        [
+                            9.188454,
+                            45.63708,
+                            0
+                        ],
+                        [
+                            9.187692,
+                            45.63699,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cimitero C.na Savina",
+                "styleUrl": "#poly-0000FF-3-115-nodesc",
+                "styleHash": "3df146d",
+                "styleMapHash": {
+                    "normal": "#poly-0000FF-3-115-nodesc-normal",
+                    "highlight": "#poly-0000FF-3-115-nodesc-highlight"
+                },
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#0000ff",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.199194,
+                            45.593043,
+                            0
+                        ],
+                        [
+                            9.199805,
+                            45.593178,
+                            0
+                        ],
+                        [
+                            9.199634,
+                            45.593658,
+                            0
+                        ],
+                        [
+                            9.199022,
+                            45.593546,
+                            0
+                        ],
+                        [
+                            9.199194,
+                            45.593043,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Ex cimitero di Nova M.se",
+                "styleUrl": "#poly-0000FF-3-115-nodesc",
+                "styleHash": "3df146d",
+                "styleMapHash": {
+                    "normal": "#poly-0000FF-3-115-nodesc-normal",
+                    "highlight": "#poly-0000FF-3-115-nodesc-highlight"
+                },
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#0000ff",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.201819,
+                        45.609284,
+                        0
+                    ],
+                    [
+                        9.200939,
+                        45.609149,
+                        0
+                    ],
+                    [
+                        9.201025,
+                        45.608503,
+                        0
+                    ],
+                    [
+                        9.200724,
+                        45.608173,
+                        0
+                    ],
+                    [
+                        9.200746,
+                        45.607768,
+                        0
+                    ],
+                    [
+                        9.199394,
+                        45.606777,
+                        0
+                    ],
+                    [
+                        9.197162,
+                        45.605996,
+                        0
+                    ],
+                    [
+                        9.194176,
+                        45.6054,
+                        0
+                    ],
+                    [
+                        9.193901,
+                        45.604135,
+                        0
+                    ],
+                    [
+                        9.192914,
+                        45.60409,
+                        0
+                    ],
+                    [
+                        9.192463,
+                        45.603985,
+                        0
+                    ],
+                    [
+                        9.191712,
+                        45.603715,
+                        0
+                    ],
+                    [
+                        9.190789,
+                        45.603519,
+                        0
+                    ],
+                    [
+                        9.189481,
+                        45.603279,
+                        0
+                    ],
+                    [
+                        9.188708,
+                        45.603309,
+                        0
+                    ],
+                    [
+                        9.188206,
+                        45.603127,
+                        0
+                    ],
+                    [
+                        9.184772,
+                        45.602519,
+                        0
+                    ],
+                    [
+                        9.179032,
+                        45.601363,
+                        0
+                    ],
+                    [
+                        9.171284,
+                        45.599946,
+                        0
+                    ],
+                    [
+                        9.166392,
+                        45.599031,
+                        0
+                    ],
+                    [
+                        9.162015,
+                        45.598205,
+                        0
+                    ],
+                    [
+                        9.160105,
+                        45.597905,
+                        0
+                    ],
+                    [
+                        9.158388,
+                        45.597634,
+                        0
+                    ],
+                    [
+                        9.158324,
+                        45.597499,
+                        0
+                    ],
+                    [
+                        9.156951,
+                        45.597109,
+                        0
+                    ],
+                    [
+                        9.156586,
+                        45.597184,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strada vecchia per Varedo",
+                "styleUrl": "#line-FF0000-5-nodesc",
+                "styleHash": "-1052777b",
+                "styleMapHash": {
+                    "normal": "#line-FF0000-5-nodesc-normal",
+                    "highlight": "#line-FF0000-5-nodesc-highlight"
+                },
+                "stroke": "#ff0000",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        }
+    ]
+}
