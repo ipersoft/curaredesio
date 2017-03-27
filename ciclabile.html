@@ -32,6 +32,17 @@
         // NOTE: This uses cross-domain XHR, and may not work on older browsers.
         map.data.loadGeoJson(
             'https://raw.githubusercontent.com/ipersoft/curaredesio/master/pisteciclabilidesio.geojson');
+        
+         map.data.setStyle(function(feature) {
+          var color = 'gray';
+          if (feature.getProperty('stato')=='esistente') {
+            color = 'green';
+          }
+          return /** @type {google.maps.Data.StyleOptions} */({
+            fillColor: color,
+            strokeColor: color,
+            strokeWeight: 2
+          });
       }
     </script>
     <script async defer
