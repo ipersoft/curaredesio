@@ -26,14 +26,17 @@
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 14,
-          center: {lat: 45.619344, lng: 9.202615}
+          center: {lat: 45.619344, lng: 9.202615},
+           mapTypeControlOptions: {
+              position: google.maps.ControlPosition.TOP_CENTER
+           }
         });
 
         
       var myTitle = document.createElement('h3');
       myTitle.style.color = 'black';
       myTitle.style.padding='10px';
-      myTitle.innerHTML = '<h3><b>Città di Desio</b></h3>><p>Piste ciclabili</p>';
+      myTitle.innerHTML = '<h3><b>Città di Desio</b></h3><p>Piste ciclabili</p>';
       var myTextDiv = document.createElement('div');
       myTextDiv.appendChild(myTitle);
 
