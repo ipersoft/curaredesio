@@ -37,7 +37,9 @@
           var color = 'gray';
         if (feature.getProperty('stato')==='esistente') {
             color = 'green';
-          }
+          }else {
+          color = 'red';
+             }
           return /** @type {google.maps.Data.StyleOptions} */({
             fillColor: color,
             strokeColor: color,
