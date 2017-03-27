@@ -1,31 +1,41 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset=utf-8 />
-<title>Load GeoJSON from a URL</title>
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet' />
-<style>
-  body { margin:0; padding:0; }
-  #map { position:absolute; top:0; bottom:0; width:100%; }
-</style>
-</head>
-<body>
-<div id='map'></div>
+  <head>
+    <title>Data Layer: Simple</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
 
-<script>
-L.mapbox.accessToken = 'pk.eyJ1IjoiaXBlcnNvZnQiLCJhIjoiY2l3OGQxamF0MDAxeTJ6bG9ydzRvY3ExbyJ9.l7xWbbS1gdkS6tSYBCF5Fw';
-var map = L.mapbox.map('map', 'mapbox.streets')
-    .setView([45.619344, 9.202615], 14);
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: {lat: -28, lng: 137}
+        });
 
-// As with any other AJAX request, this technique is subject to the Same Origin Policy:
-// http://en.wikipedia.org/wiki/Same_origin_policy
-// So the CSV file must be on the same domain as the Javascript, or the server
-// delivering it should support CORS.
-var featureLayer = L.mapbox.featureLayer()
-    .loadURL('pisteciclabilidesio.geojson')
-    .addTo(map);
-</script>
-</body>
+        // NOTE: This uses cross-domain XHR, and may not work on older browsers.
+        map.data.loadGeoJson(
+            'pisteciclabilidesio.geojson');
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqrDjL6eFlE2Nho-BZ1ZYmfAxMAAgGrSo&callback=initMap">
+    </script>
+  </body>
 </html>
