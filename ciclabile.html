@@ -29,6 +29,15 @@
           center: {lat: 45.619344, lng: 9.202615}
         });
 
+        
+      var myTitle = document.createElement('h1');
+      myTitle.style.color = 'white';
+      myTitle.innerHTML = 'Hello World';
+      var myTextDiv = document.createElement('div');
+      myTextDiv.appendChild(myTitle);
+
+      map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(myTextDiv);
+        
         // NOTE: This uses cross-domain XHR, and may not work on older browsers.
         map.data.loadGeoJson(
             'https://raw.githubusercontent.com/ipersoft/curaredesio/master/pisteciclabilidesio.geojson');
