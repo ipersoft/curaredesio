@@ -33,9 +33,9 @@
         map.data.loadGeoJson(
             'https://raw.githubusercontent.com/ipersoft/curaredesio/master/pisteciclabilidesio.geojson');
         
-         map.data.setStyle(function(feature) {
+      map.data.setStyle(function(feature) {
           var color = 'gray';
-          if (feature.getProperty('stato')==='esistente') {
+        if (feature.getProperty('stato')==='esistente') {
             color = 'green';
           }
           return /** @type {google.maps.Data.StyleOptions} */({
@@ -43,7 +43,8 @@
             strokeColor: color,
             strokeWeight: 2
           });
-      })
+        });
+      }
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqrDjL6eFlE2Nho-BZ1ZYmfAxMAAgGrSo&callback=initMap">
