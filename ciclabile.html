@@ -30,13 +30,13 @@
         });
 
         
-      var myTitle = document.createElement('h1');
-      myTitle.style.color = 'white';
-      myTitle.innerHTML = 'Hello World';
+      var myTitle = document.createElement('h3');
+      myTitle.style.color = 'black';
+      myTitle.innerHTML = '<b>Città di Desio</b></h3><p>Piste ciclabili</p>';
       var myTextDiv = document.createElement('div');
       myTextDiv.appendChild(myTitle);
 
-      map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(myTextDiv);
+      map.controls[google.maps.ControlPosition.TOP_LEFT].push(myTextDiv);
         
         // NOTE: This uses cross-domain XHR, and may not work on older browsers.
         map.data.loadGeoJson(
